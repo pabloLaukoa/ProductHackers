@@ -4,9 +4,9 @@ A SASS based template
 
 ## Getting Started
 
-You can visit the web by entering the following address in your browser:
+Clone or Download the repository at:
 
-[https://pablolaukoa.github.io/](https://pablolaukoa.github.io/)
+[https://github.com/pabloLaukoa/ProductHackers](https://github.com/pabloLaukoa/ProductHackers)
 
 ### Prerequisites
 
