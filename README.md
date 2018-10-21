@@ -1,29 +1,50 @@
-# Primitive
+# ProductHackers Maquetador Front Test
 
-Primitive is a minimalist Sass boilerplate and CSS framework that provides helpful, browser-consistent styling for buttons, forms, tables, lists, and typography.
+A SASS based template
 
 ## Getting Started
 
-- **Quick start** - [Download the stylesheet](https://taniarascia.github.io/primitive/css/main.css).
-- **Sass integration** - Clone the repo: `git clone https://github.com/taniarascia/primitive.git`.
+You can visit the web by entering the following address in your browser:
 
-Simply run `npm run sass` to run a Sass watch on the entire project.
+[https://pablolaukoa.github.io/](https://pablolaukoa.github.io/)
 
-## Documentation
+### Prerequisites
 
-All documentation can be found at [https://taniarascia.github.io/primitive](https://taniarascia.github.io/primitive).
+If you want to try the web in your local environment you must have installed the following software:
 
-## Todo:
 
-_9/8/18_
+[Git](https://git-scm.com/)
 
-- [x] Add source maps
-- [x] Add minification
-- [ ] Add autoprefixing
-- [x] Change documentation page to remove Gulp
+[Node.js](https://nodejs.org/es/) 
 
-## License
 
-The code is open source and available under the [MIT License](LICENSE.md).
+### Installing
 
-Built and maintained by [Tania Rascia](https://www.taniarascia.com)
+With this software running you can clone the repository executing the following script in your terminal window:
+
+```
+git clone https://github.com/pabloLaukoa/pabloLaukoa.github.io.git
+```
+
+## Deployment
+
+Execute the following script to run the local server
+
+```
+$ npm install
+```
+
+To install dependencies, and
+
+```
+$ npm run sass
+```
+
+## Built With
+
+* [node.js](https://jekyllrb.com/) - The web framework used
+* [SASS](https://sass-lang.com/) - CSS extension language
+
+## Authors
+
+* **Pablo Rubio Retolaza** - *Initial work* - [PabloLaukoa](https://github.com/pabloLaukoa)
