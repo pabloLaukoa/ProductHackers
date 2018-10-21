@@ -1,22 +1,29 @@
-# ProductHackers Front Maquetador Test
+# Primitive
 
-A SASS based template
+Primitive is a minimalist Sass boilerplate and CSS framework that provides helpful, browser-consistent styling for buttons, forms, tables, lists, and typography.
 
 ## Getting Started
 
-You can visit the web by entering the following address in your browser:
+- **Quick start** - [Download the stylesheet](https://taniarascia.github.io/primitive/css/main.css).
+- **Sass integration** - Clone the repo: `git clone https://github.com/taniarascia/primitive.git`.
 
-[https://pablolaukoa.github.io/](https://pablolaukoa.github.io/)
- 
-### Installing
+Simply run `npm run sass` to run a Sass watch on the entire project.
 
-With this software running you can clone the repository executing the following script in your terminal window:
+## Documentation
 
-```
-git clone https://github.com/pabloLaukoa/pabloLaukoa.github.io.git
-```
+All documentation can be found at [https://taniarascia.github.io/primitive](https://taniarascia.github.io/primitive).
 
-## Authors
+## Todo:
 
-* **Pablo Rubio Retolaza** - *Initial work* - [PabloLaukoa](https://github.com/pabloLaukoa)
+_9/8/18_
 
+- [x] Add source maps
+- [x] Add minification
+- [ ] Add autoprefixing
+- [x] Change documentation page to remove Gulp
+
+## License
+
+The code is open source and available under the [MIT License](LICENSE.md).
+
+Built and maintained by [Tania Rascia](https://www.taniarascia.com)

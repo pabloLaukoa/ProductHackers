@@ -1,0 +1,30 @@
+/* Navigation
+  =============== */
+ 
+.navbar-nav {
+		
+	.nav-link {
+		
+		margin-right: 1em;
+		color: $primary-color;
+	}
+}
+
+nav {
+	
+	img {
+		
+		width: 133px;
+	}
+} 
+  
+nav > a {
+	
+	font-size: $font-size;
+	color: $secondary-color;	
+}
+
+nav > a.active {
+	
+	color: $primary-color;	
+}
